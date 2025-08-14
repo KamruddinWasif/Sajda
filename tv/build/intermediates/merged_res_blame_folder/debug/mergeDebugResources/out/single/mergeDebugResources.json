@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.myapplication.tv-debug-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.tv-main-56:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.tv-debug-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.tv-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.tv-debug-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.tv-main-56:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.tv-debug-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.tv-main-56:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.tv-debug-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.tv-main-56:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
